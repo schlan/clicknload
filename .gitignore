@@ -1,0 +1,53 @@
+# My stuff
+
+*~
+*.log
+.DS_Store
+store/
+config/*.cfg
+config/*.json
+client/*
+
+# Python
+
+__pycache__/
+
+# Eclipse / PyDev
+
+.project
+.pydevproject
+.settings
+
+# PyCharm
+
+.idea/
+
+# Added by github.com
+
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Translations
+*.mo
+
+#Mr Developer
+*.AppleDouble
